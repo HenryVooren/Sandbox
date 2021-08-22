@@ -1,2 +1,2 @@
 # Sandbox
-Environment for programs and testing outside of practical
+Environment for programs and testing outside of practicals
